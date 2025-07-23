@@ -69,18 +69,7 @@ Embed a couple of screenshots or a short GIF.
 
 ```
 
----
-
-## 6. Sample runs
-
-See `sample_runs/` for full input/output transcripts:
-
-- `swiggy_da_input_output.md`
-- `marketing_analyst_input_output.md`
-
----
-
-## 7. Roadmap / Backlog
+## 7. Roadmap
 
 - ATS keyword density scoring
 - Multi-JD comparer (find common denominators across roles)
