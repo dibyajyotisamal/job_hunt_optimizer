@@ -88,7 +88,6 @@ See `sample_runs/` for full input/output transcripts:
 - Export to Markdown/PDF directly
 - API hook / script to auto-update a resume template
 
-(Track items in `backlog.md`.)
 
 ---
 
@@ -109,8 +108,4 @@ Feel free to fork and adapt. If you improve prompts or add new blocks, open a PR
 MIT License – see `LICENSE`.
 
 ---
-
-### Quick Copy Snippet for LinkedIn / Portfolio
-
-> Built a **Job Hunt Optimizer** on AWS PartyRock: Paste any JD + your resume → get a JD skill matrix, gap list, a truthful resume rewrite (with `[NEED METRIC]` tags), KPI ideas, and a 14‑day action plan. Live link in comments. Built a **Job Hunt Optimizer** on AWS PartyRock: Paste any JD + your resume → get a JD skill matrix, gap list, a truthful resume rewrite (with `[NEED METRIC]` tags), KPI ideas, and a 14‑day action plan. Live link in comments.
 
