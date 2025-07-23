@@ -8,7 +8,7 @@ Paste any Job Description (JD) and your resume, click run, and get **everything 
 - **KPI & evidence ideas** (what to measure, where to pull data)
 - A **14‑day action checklist** (Day 1…Day 14, each with a proof artifact)
 
-**Live app:**&#x20;
+**Live app:** https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-(Upload-Resume-and-Job-Description);
 
 ---
 
