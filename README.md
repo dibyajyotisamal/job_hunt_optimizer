@@ -61,9 +61,12 @@ Most "resume optimizers" spit out fluffy bullets and hallucinated numbers. Recru
 Embed a couple of screenshots or a short GIF.
 
 ```
-/screenshots/ui_inputs.png
-/screenshots/output_snapshot.png
-/screenshots/checklist_example.png
+![JD Skills](media/jd-skills.gif)
+![Gap Analysis](media/gap-analysis.gif)
+![Resume Rewriter](media/resume-rewriter.gif)
+![KPI Ideas](media/kpi-and-evidence-ideas.gif)
+![14‑Day Checklist](media/14-day-checklist.gif)
+
 ```
 
 ---
