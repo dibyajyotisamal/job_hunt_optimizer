@@ -76,7 +76,7 @@ Most "resume optimizers" spit out fluffy bullets and hallucinated numbers. Recru
 
 ---
 
-## 7. Roadmap
+## 6. Roadmap
 
 - ATS keyword density scoring
 - Multi-JD comparer (find common denominators across roles)
@@ -87,19 +87,13 @@ Most "resume optimizers" spit out fluffy bullets and hallucinated numbers. Recru
 
 ---
 
-## 8. Truth & ethics
+## 7. Truth & ethics
 
 This tool deliberately uses `{NEED METRIC}` / `{NEED DETAIL}` tags to prevent fabricated numbers. Replace them with real data or remove the claim. Lying on resumes is grounds for rejection.
 
 ---
 
-## 9. Contributing / Forking
-
-Feel free to fork and adapt. If you improve prompts or add new blocks, open a PR or drop an issue.
-
----
-
-## 10. License
+## 8. License
 
 MIT License – see `LICENSE`.
 
