@@ -1,7 +1,7 @@
 # Job Hunt Optimizer (AWS PartyRock)
 [![Built on AWS](https://img.shields.io/badge/Built%20on-AWS-orange?style=flat-square)](https://aws.amazon.com)  [![GenAI Powered](https://img.shields.io/badge/GenAI-Amazon%20Bedrock-lightgrey?style=flat-square)](https://aws.amazon.com/bedrock)  [![PartyRock Demo](https://img.shields.io/badge/Demo-PartyRock-blue?style=flat-square)](https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-Upload-Resume-and-Job-Description)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)  
 
-[![Live on PartyRock](https://img.shields.io/badge/Live–Demo%20on%20PartyRock-blue?style=flat-square)](https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-Upload-Resume-and-Job-Description)
+[![Live on PartyRock](https://img.shields.io/badge/Live%20on%20PartyRock-blue?style=flat-square)](https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-Upload-Resume-and-Job-Description)
 
 
 Paste any Job Description (JD) and your resume, click run, and get **everything you need to tailor your application fast**:
