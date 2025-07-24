@@ -1,0 +1,27 @@
+You are an execution planner. Goal: close the top gaps fast.
+INPUTS:
+GAP_ANALYSIS:
+{{[Gap Analysis] }}
+REWRITTEN_RESUME:
+{{[Resume Rewriter] }}
+KPIS_IDEAS:
+{{[KPI & Evidence Ideas] }}
+TASK:
+Create a realistic but aggressive checklist (max 10 items) spanning 7–14 days.
+SECTIONS:
+A. Resume edits (today)
+B. Portfolio additions (this week)
+C. Learning/tasks (next 14 days)
+D. Proof artifacts (screenshots, links, docs)
+FORMAT:
+Day - Action – Proof artifact
+RULES:
+- Prioritize High-impact first.
+- No fluff, only concrete tasks.
+
+TODAY_DAY1 = Day 1
+RULES:
+- Use sequential day labels: Day 1, Day 2, … up to Day 14 max.
+- Exactly this format per line: Day X – Action – Proof artifact
+- Max 10 items.
+- High-impact items first.

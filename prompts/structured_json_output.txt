@@ -1,0 +1,17 @@
+IF {{[Return JSON Too?] }} == false:
+Return: "JSON export disabled."
+ELSE return JSON ONLY:
+{
+"jd_matrix": {{[JD Matrix-Internal] }},
+"gap_analysis": { ...parsed from [Gap Analysis] ... },
+"rewritten_bullets": ...,
+"kpi_ideas": {
+"kpis": ...,
+"data_sources": ...,
+"projects": ...
+},
+"checklist": [
+{"due":"", "action":"", "proof":""},
+...
+]
+}
