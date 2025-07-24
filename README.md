@@ -1,4 +1,8 @@
 # Job Hunt Optimizer (AWS PartyRock)
+[![Built on AWS](https://img.shields.io/badge/Built%20on-AWS-orange?style=flat-square)](https://aws.amazon.com)  [![GenAI Powered](https://img.shields.io/badge/GenAI-Amazon%20Bedrock-lightgrey?style=flat-square)](https://aws.amazon.com/bedrock)  [![PartyRock Demo](https://img.shields.io/badge/Demo-PartyRock-blue?style=flat-square)](https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-Upload-Resume-and-Job-Description)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)  
+
+[![Live on PartyRock](https://img.shields.io/badge/Live–Demo%20on%20PartyRock-blue?style=flat-square)](https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-Upload-Resume-and-Job-Description)
+
 
 Paste any Job Description (JD) and your resume, click run, and get **everything you need to tailor your application fast**:
 
@@ -8,7 +12,7 @@ Paste any Job Description (JD) and your resume, click run, and get **everything 
 - **KPI & evidence ideas** (what to measure, where to pull data)
 - A **14‑day action checklist** (Day 1…Day 14, each with a proof artifact)
 
-**Live app:** https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-(Upload-Resume-and-Job-Description);
+**Live app:** [Job Hunt Optimizer on PartyRock](https://partyrock.aws/u/dibyajyotisamal/mHu1JEpj1/Job-Hunt-Optimizer-(Upload-Resume-and-Job-Description))
 
 ---
 
@@ -56,24 +60,21 @@ Most "resume optimizers" spit out fluffy bullets and hallucinated numbers. Recru
 
 ---
 
-## 5. Screenshots / Demo
+## 5. Demo/Screenshots
 
-Embed a couple of screenshots or a short GIF.
+<!-- All panels sized to 800×450 for consistency -->
+<img src="media/jd-skills.gif" width="800" height="450" alt="JD Required Skills Snapshot" />
 
+<img src="media/gap-analysis.gif" width="800" height="450" alt="Gap Analysis" />
 
-![JD Required Skills Snapshot](media/jd-skills.gif)
+<img src="media/resume-rewriter.gif" width="800" height="450" alt="Resume Rewriter" />
 
-![Gap Analysis](media/gap-analysis.gif)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
+  <img src="media/kpi-and-evidence-ideas.gif" width="500" alt="KPI & Evidence Ideas" />
+  <img src="media/14-day-checklist.gif" width="500" alt="14‑Day Checklist" />
+</div>
 
-![Resume Rewriter](media/resume-rewriter.gif)
-
-![KPI & Evidence Ideas](media/kpi-and-evidence-ideas.gif)
-
-![14‑Day Checklist](media/14-day-checklist.gif)
-
-
-
-
+---
 
 ## 7. Roadmap
 
@@ -88,7 +89,7 @@ Embed a couple of screenshots or a short GIF.
 
 ## 8. Truth & ethics
 
-This tool deliberately uses `[NEED METRIC]` / `[NEED DETAIL]` tags to prevent fabricated numbers. Replace them with real data or remove the claim. Lying on resumes is grounds for rejection.
+This tool deliberately uses `{NEED METRIC}` / `{NEED DETAIL}` tags to prevent fabricated numbers. Replace them with real data or remove the claim. Lying on resumes is grounds for rejection.
 
 ---
 
