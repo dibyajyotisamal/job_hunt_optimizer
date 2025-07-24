@@ -60,14 +60,20 @@ Most "resume optimizers" spit out fluffy bullets and hallucinated numbers. Recru
 
 Embed a couple of screenshots or a short GIF.
 
-```
-![JD Skills](media/jd-skills.gif)
+
+![JD Required Skills Snapshot](media/jd-skills.gif)
+
 ![Gap Analysis](media/gap-analysis.gif)
+
 ![Resume Rewriter](media/resume-rewriter.gif)
-![KPI Ideas](media/kpi-and-evidence-ideas.gif)
+
+![KPI & Evidence Ideas](media/kpi-and-evidence-ideas.gif)
+
 ![14‑Day Checklist](media/14-day-checklist.gif)
 
-```
+
+
+
 
 ## 7. Roadmap
 
